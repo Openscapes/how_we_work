@@ -1,68 +1,50 @@
 
+*This is an evolving list to consider as you're putting together onboarding documents for your research group. Categories, names, and organization will vary depending on your group's needs. It's likely you will have a collection of documents that you can link in between to keep organized. See examples listed in the [README](https://github.com/openscapes/how_we_work#how-we-work)*
 
 *   **To Do List / Quickstart / Onboarding**
-    *   Software accounts and set up, required reading
-    *    A “map” of where to find reagents/equipment-- where are our lab spaces, where are established working protocols stored
-    *   Safety training for wetlab
+    *   Software accounts to set up
+        *  Google groups, drive folders, & calendars; Slack; 
+        *  GitHub Org/Issues
+        *   Remote drives and how to access them via VPN
+            *   How to setup & use VPNs
+*    Lab meetings, 1:1 meetings
+        *   time & place
+   *   A “map” of where to find reagents/equipment-- where are our lab spaces, where are established working protocols stored
+    *   Safety training
         *   How to login to do safety training (virtually)
         *   How often to renew
-    *   List of protocols: these are what you have to know
-        *   How to dishwash
-        *   Use the autoclave
-        *   Basic ordering to order supplies (can't go into physical stores on campus)
-    *   Software, meetings, norms 
-        *   E.g. google groups, Slack, GitHub Org/Issues, frequency of group and 1:1 meetings
-        *   Google drive folders, calendars
-    *   Remote drives and how to access them via VPN
-        *   How to use VPNs
-    *   (a start of this in emails that I forward)
-    *   List of abbreviations & jargons that our lab uses / Glossary
-        *   Going through our old papers and making notes
-        *   Blood brain barrier vs neurovascular unit 
-    *   
+    *   List of required reading/protocols: these are what you have to know
+        *   Ex: How to dishwash, how to use the autoclave, how to order lab supplies
+    *   Glossary / List of abbreviations & jargons that our lab uses
+        *   Example: Blood brain barrier vs neurovascular unit 
+     
 *   **Our values**
-    *   Values, inclusion: 
+    *   Our values, lab philosophy
+        *   Be ok with imperfection! Failing is ok! Trust
     *   Code of Conduct
     *   How to get support
         *   university specific resources
-    *   Be ok with imperfection! Failing is ok! Trust
+
 *   **Data management & shared resources**
     *   Storage & documentation
     *   References management
-    *   
-    *   Repo for all qualifying exams, prelims, fellowship applications. Diff milestones that people go through in our lab
-    *    Communication stuff
-    *   
-    *   This is how you present scientific work
+        *   How to download, how to install add-ins for citation managers   
+    *   Milestones: qualifying exams, prelims, fellowship applications.
+    *   Communication: This is how you present scientific work
         *   Journal club templates: this is how you present an article for journal 
         *   Presentations, photos
         *   Poster templates
-            *   Advice on how to create posters, present
-            *   How to do this virtually rather than printouts
+            *   Advice on how to create posters, present (virtually)
             *   [https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better](https://www.insidehighered.com/news/2019/06/24/theres-movement-better-scientific-posters-are-they-really-better) 
-    *    Reference mgmt:
-        *   How to download, how to install add-ins for citation managers
-        *   Have a small presentation to new students – link 
-        *    
-    *   Consolidating our storage and docs
-        *    Split between dropbox, google drive
-        *   Strategies for streamlining. 
-        *    Paid subscription? 
-            *   Vanderbilt has Dropbox version for free
-            *   One issue with consolidation is storage space. Hammell lab has to split across diff places, who has access as an individual. Don't have a good way to have a lab dropbox
-        *   Could start with rules: manuscripts here, y there.
-        *   Raw data goes on a server. Intermediate/what could be presented and shared go on dropbox
-            *   Major roadblock for us to talk about consolidation. 
-            *   Diff needs for diff people: Dropbox for some things, not images too big
-            *   Requires buy-in from the lab
-        *   Some people more happy to share their work/progress. A lot of people not comfortable. Trust, encouragement. Being comfortable with imperfection
-        *   Instagram gen: but also I don't know what's going on, 
+        
+    *   Streamlining/consolidating our storage and docs
+        *   When do things go where (Servers, GitHub, Google drive, Dropbox, Hard drives...)
+        *   Could start with rules: manuscripts here, data there.
+        *   Or: raw data goes on a server. Intermediate data/what could be presented and shared go in Dropbox
 *   **Computation**
     *   Software, norms for analysis
     *   E.g. scripting, version control
     *   Documentation
     *   
 *   
-
-**Create GitHub template! **(Julie screenshares)
 
