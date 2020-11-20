@@ -1,5 +1,5 @@
 
-*This is an list to consider as you're putting together onboarding documents for your research group. The headers below suggest categories that might be separate documents or headers for you but you should change the names and organization to best fit your group's needs and priorities. It's likely you will have a collection of documents that you can link in between to keep organized: see examples listed in the [README](https://github.com/openscapes/how_we_work#how-we-work).*
+*This is an list to consider as you're putting together onboarding documents for your research group. The headers below suggest categories that might be separate documents or headers for you: you should change the names and organization to best fit your group's needs and priorities. It's likely you will have a collection of documents that you can link in between to keep organized: see examples listed in the [README](https://github.com/openscapes/how_we_work#how-we-work).*
 
 ### To Do List / Quickstart / Onboarding
 
