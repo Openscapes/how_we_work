@@ -1,7 +1,7 @@
 
-*This is an evolving list to consider as you're putting together onboarding documents for your research group. Categories, names, and organization will vary depending on your group's needs. It's likely you will have a collection of documents that you can link in between to keep organized. See examples listed in the [README](https://github.com/openscapes/how_we_work#how-we-work)*
+*This is an list to consider as you're putting together onboarding documents for your research group. The headers below suggest categories that might be separate documents or headers for you but you should change the names and organization to best fit your group's needs and priorities. It's likely you will have a collection of documents that you can link in between to keep organized: see examples listed in the [README](https://github.com/openscapes/how_we_work#how-we-work).*
 
-**To Do List / Quickstart / Onboarding**
+### To Do List / Quickstart / Onboarding
 
 - Software accounts to set up
   - Google groups, drive folders, & calendars; Slack; 
@@ -19,7 +19,7 @@
 - Glossary / List of abbreviations & jargons that our lab uses
   - Example: Blood brain barrier vs neurovascular unit 
      
-**Our values**
+### Our values / Lab philosophy
 
 - Our values, lab philosophy
   - Be ok with imperfection! Failing is ok! Trust
@@ -27,7 +27,7 @@
 - How to get support
   - university specific resources: counselling, safety, mental health
 
-**Data management & shared resources**
+### Data management & shared resources
 
 - Storage & documentation
 - References management
@@ -44,7 +44,7 @@
   - Could start with rules: manuscripts here, data there.
   - Or: raw data goes on a server. Intermediate data/what could be presented and shared go in Dropbox
 
-**Computation / Data analysis**
+### Computation / Data analysis
 
 - Software, norms for analysis
   - Scripting (language), version control
