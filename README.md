@@ -1,6 +1,6 @@
 ## How we work
 
-Examples of "How we work" and Code of Conduct documents from the Openscapes community
+Examples of "How we work" and Code of Conduct documents from the greater Openscapes community
 
 - [Pinsky Lab: how we work](https://github.com/pinskylab/how_we_work) — Malin Pinsky's research group at Rutgers
 - [The FayLab Lab Manual](https://thefaylab.github.io/lab-manual/index.html) — Gavin Fay's research group at UMass Dartmouth
