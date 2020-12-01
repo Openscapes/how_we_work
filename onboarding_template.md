@@ -1,5 +1,5 @@
 
-*This is an list to consider as you're putting together onboarding documents for your research group. The headers below suggest categories that might become separate documents depending on what makes most sense for your group's needs, priorities, and existing content. It's likely you will have a collection of documents that you can link in between to keep organized: see examples listed in the [README](https://github.com/openscapes/how_we_work#how-we-work).*
+*This is an list to consider as you're putting together onboarding documents for your research group. The headers below suggest categories that might become separate documents depending on what makes most sense for your group's needs, priorities, and existing content. It's likely you will have a collection of documents that you can link in between to keep organized: see examples listed in the [README](https://github.com/openscapes/how_we_work#how-we-work).* This document was first created with Kylie Balotin, Oliver Tam, and Chris Sifuentes in NDCN's Computational Office Hours.
 
 ### To Do List / Quickstart / Onboarding
 
