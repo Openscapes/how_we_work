@@ -8,7 +8,7 @@ Examples of "How we work" and Code of Conduct documents for research groups
 - [BahlaiLab: Policies](https://github.com/BahlaiLab/Policies) – Christie Bahlai's research group at Kent State University
 - [Keiser Lab Policies](https://github.com/keiserlab/policy/) — Mike Keiser's research group at University of California San Francisco
 - [Bolnick Lab Values](https://bolnicklab.wordpress.com/2015/10/01/labvalues/) - Dan Bolnick's research group at University of Connecticut
-- [Mutualism Lab Mission Statement](http://mutualism.ca/lab-mission-statement), also now on GitHub: [The-Frederickson-Lab](https://github.com/The-Frederickson-Lab/mission-statement) - Megan Frederickson's Lab at the University of Toronto
+- [Mutualism Lab Mission Statement](http://mutualism.ca/lab-mission-statement), also now on [GitHub](https://github.com/The-Frederickson-Lab/mission-statement) - Megan Frederickson's Lab at the University of Toronto
 - [Dr Kat Lab Expectations](https://drkatlab.wordpress.com/resources/lab-expectations/) - Kat Milligan-Myhre's lab at the University of Connecticut 
 
 <!---Tweets 
