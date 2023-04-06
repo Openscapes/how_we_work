@@ -11,9 +11,6 @@ assignees: stefaniebutland
 **Time:** 10:00 - 11:00 am Pacific Time
 **Location:** Zoom, (via eventbrite registration)
 
-## Overview
-
-
 ## Agenda
 
 Example times (PT)
@@ -22,7 +19,7 @@ Example times (PT)
 - 9:55 - start rotating slides and letting people in Zoom
 	- one slide says we'll start at at :02 after, say hello in Chat
 - 10:00 - start pump up music, slides keep rotating
-- 10:02 - welcome (Stef)
+- 10:02 - welcome 
 - 10:05 - Celebrity interview
 - 10:30 - Audience Q & A
 - 10:50 - closing & thank you
@@ -43,6 +40,11 @@ In the checklist below, DATE is placeholder for deadline, to be filled in.
 - [ ] tweet reminder DATE
 - [ ] ask speakers about their favorite pump-up song/a song he likes that we'll play at the intro
 - [ ] create intro slides
-- [ ] publish blog post
+- [ ] call takes place
+- [ ] update Event page - event past
+- [ ] publish blog post & tweet & toot
+- [ ] add post link to Eventbrite page
 
 ## Content
+
+brief notes on ideas for content
