@@ -1,6 +1,6 @@
 ---
 name: Community Call
-description: Checklist to organize an Openscapes Community Call
+about: Checklist to organize an Openscapes Community Call
 title: 'Community Call: topic'
 labels: community-call
 assignees: stefaniebutland
