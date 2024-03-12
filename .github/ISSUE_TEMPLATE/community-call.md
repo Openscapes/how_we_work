@@ -6,6 +6,7 @@ labels: community-call
 assignees: stefaniebutland
 
 ---
+
 We can use this issue to add updates as we plan.
 
 **Date:** Tuesday, March 28, 2023
@@ -47,5 +48,3 @@ In the checklist below, DATE is placeholder for deadline, to be filled in.
 - [ ] update Event page - event past
 - [ ] publish blog post & promote
 - [ ] add post link to Event page
-
-
