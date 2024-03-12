@@ -1,5 +1,5 @@
 ---
-name: Community Call
+name: Community Call checklist
 about: Checklist to organize an Openscapes Community Call
 title: 'Community Call: topic'
 labels: community-call
