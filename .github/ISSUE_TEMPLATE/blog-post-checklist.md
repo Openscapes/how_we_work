@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Technical details for blog posts are in [website wiki](https://github.com/Openscapes/website-new/wiki).
+Technical details for blog posts are in [website wiki](https://github.com/Openscapes/website-new/wiki) and we have a template [blog/blog-post-template-2025-09](https://github.com/Openscapes/website-new/tree/main/blog/blog-post-template-2025-09) that can be copied and edited for a blog or event post. 
 
 - [ ] review & edit draft, including spell acronyms, add links, add alt text to figures
 - [ ] publish to openscapes.org
@@ -15,3 +15,5 @@ Technical details for blog posts are in [website wiki](https://github.com/Opensc
 - [ ] post to Slack #general
 - [ ] toot on Mastodon
 - [ ] skeet on Bluesky
+
+For a Newsletter blog post, we publish the post, update our newsletter google group mailing list (documented in [Approach Guide...Newsletter](https://openscapes.github.io/approach-guide/approach/newsletter.html)), then Julie emails the newsletter to the list. 
