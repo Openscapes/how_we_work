@@ -11,7 +11,7 @@ Technical details for blog posts are in [website wiki](https://github.com/Opensc
 
 - [ ] review & edit draft, including spell acronyms, add links, add alt text to figures
 - [ ] publish to openscapes.org
-- [ ] if NASA Openscapes relevant, cross post there in News
+- [ ] cross post to https://nasa-openscapes.github.io/news.html & https://nmfs-openscapes.github.io/blog.html
 - [ ] post to Slack #general
 - [ ] toot on Mastodon
 - [ ] skeet on Bluesky
