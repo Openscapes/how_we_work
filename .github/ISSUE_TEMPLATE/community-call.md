@@ -9,8 +9,8 @@ assignees: stefaniebutland
 
 We can use this issue to add updates as we plan.
 
-**Date:** Tuesday, March 28, 2023
-**Time:** 10:00 - 11:00 am Pacific Time
+**Date:** TBD
+**Time:** e.g. 10:00 - 11:00 am Pacific Time
 **Location:** Zoom, (via zoom registration)
 
 ## Agenda
@@ -27,7 +27,7 @@ Example times (PT)
 - 10:50 - closing & thank you
 - 10:55 - end
 
-Examples of previous Openscapes Community Calls: https://www.openscapes.org/tags/community-call/
+Examples of previous Openscapes Community Calls: https://openscapes.org/blog#category=community-call
 
 ## TODO
 
