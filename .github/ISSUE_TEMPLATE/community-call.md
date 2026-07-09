@@ -9,6 +9,8 @@ assignees: stefaniebutland
 
 We can use this issue to add updates as we plan.
 
+See Approach Guide: [Community Calls](https://openscapes.github.io/approach-guide/approach/seaside-chats.html#community-calls). Links to a template Google Doc.
+
 **Date:** TBD
 **Time:** e.g. 10:00 - 11:00 am Pacific Time
 **Location:** Zoom, (via zoom registration)
@@ -35,7 +37,7 @@ In the checklist below, DATE is placeholder for deadline, to be filled in.
 
 - [ ] set up [zoom registration](https://openscapes.github.io/approach-guide/approach/tooling.html#zoom); add zoom link to Google Invites & Doc
 - [ ] create page at https://openscapes.org/events
-- [ ] create draft Google Doc for event 
+- [ ] create draft Google Doc for event from [template](https://openscapes.github.io/approach-guide/approach/seaside-chats.html#community-calls)
 - [ ] promo announcement via Slacks, Mastodon, Bluesky
 - [ ] engage potential participants / stakeholders
 - [ ] planning meeting with speakers, Stef, Julie, 1-week prior to event
