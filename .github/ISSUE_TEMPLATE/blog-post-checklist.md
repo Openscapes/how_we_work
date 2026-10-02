@@ -12,9 +12,10 @@ Technical details for blog posts are in [website wiki](https://github.com/Opensc
 - [ ] draft post in a Google Doc in [OpenscapesCommsEngagement](https://drive.google.com/drive/folders/1TcUIGIYZRPzHGZihaG2va8IMbLgPSO-o?usp=drive_link) folder
 - [ ] review & edit draft, including spell acronyms, add links, add alt text to figures
 - [ ] publish to openscapes.org
-- [ ] cross post to https://nasa-openscapes.github.io/news.html & https://nmfs-openscapes.github.io/blog.html
+- [ ] where appropriate, cross post to https://nasa-openscapes.github.io/news.html & https://nmfs-openscapes.github.io/blog.html
 - [ ] post to Slack #general
 - [ ] if post is about an Openscapes Event, add link to Event page
+- [ ] close issue
 
 Currently optional
 - [ ] toot on Mastodon
