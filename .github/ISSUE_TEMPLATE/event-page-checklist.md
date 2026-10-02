@@ -4,6 +4,7 @@ about: Checklist to publish an Openscapes Event page
 title: 'Event page: topic'
 labels: event
 assignees: 
+
 ---
 
 https://openscapes.org/events
@@ -22,4 +23,5 @@ We make event pages for Champions Cohorts, Community Calls, and other Openscapes
 
 Post-event
 - [ ] is there a blog post and /or recording associated with the event? Link to them.
+- [ ] propagate changes to cross-posted sites
 - [ ] close this issue
