@@ -36,17 +36,19 @@ Examples of previous Openscapes Community Calls: https://openscapes.org/blog#cat
 In the checklist below, DATE is placeholder for deadline, to be filled in.
 
 - [ ] set up [zoom registration](https://openscapes.github.io/approach-guide/approach/tooling.html#zoom); add zoom link to Google Invites & Doc
-- [ ] create page at https://openscapes.org/events
+- [ ] create page at https://openscapes.org/events; date = event date
 - [ ] create draft Google Doc for event from [template](https://openscapes.github.io/approach-guide/approach/seaside-chats.html#community-calls)
 - [ ] promo announcement via Slacks, Mastodon, Bluesky
 - [ ] engage potential participants / stakeholders
-- [ ] planning meeting with speakers, Stef, Julie, 1-week prior to event
+- [ ] planning meeting with speakers, 1-week prior to event
 - [ ] Reminders
   - [ ]  Slack, Mastodon, Bluesky
   - [ ]  [Zoom reminder email](https://openscapes.github.io/approach-guide/approach/tooling.html#zoom) to registrants (since they each have unique zoom link; easily lost in earlier email)
 - [ ] ask speakers about their favorite pump-up song/a song that we'll play at the intro
 - [ ] create intro slides
 - [ ] call takes place
+- [ ] add recording to Openscapes YouTube
+- [ ] set Google Doc to view only
 - [ ] update Event page - event past
 - [ ] publish blog post & promote
 - [ ] add post link to Event page
