@@ -47,8 +47,9 @@ In the checklist below, DATE is placeholder for deadline, to be filled in.
 - [ ] ask speakers about their favorite pump-up song/a song that we'll play at the intro
 - [ ] create intro slides
 - [ ] call takes place
-- [ ] add recording to Openscapes YouTube
 - [ ] set Google Doc to view only
+- [ ] add recording to Openscapes YouTube
 - [ ] update Event page - event past
-- [ ] publish blog post & promote
-- [ ] add post link to Event page
+- [ ] open new Issue for Blog post
+- [ ] close this issue
+
